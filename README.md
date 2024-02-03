@@ -1,4 +1,4 @@
-# ML-Course-MISIS
+# Machine Learning and Data Analysis course
 
 ML Course NUST "MISIS"
 
