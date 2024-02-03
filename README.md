@@ -10,3 +10,5 @@ Repository contains:
 - workshops with scripts, input data and commentary
 - official course plan for Ministry of Education
 - official test examples for Ministry of Education
+
+Please feel free to contact me via email ptantsov@gmail.com
