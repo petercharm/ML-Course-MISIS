@@ -1,0 +1,1 @@
+cat transactions.csv | python map1.py | sort -t$’\t’ -k1 | python reduce1.py | python map2.py | sort -t$’\t’ -k1 -nr | python reduce2.py > result.csv
